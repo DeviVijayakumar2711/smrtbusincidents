@@ -1,0 +1,9 @@
+gradio
+python-dotenv
+pandas
+langchain-openai
+langchain-experimental
+matplotlib
+PyMuPDF  # Only if you need PDF processing
+azure-core
+azure-openai
