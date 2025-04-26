@@ -258,5 +258,4 @@ with gr.Blocks() as demo:
                     outputs=[output_md, plot_output, download_output, notes_bar])
 
 if __name__ == "__main__":
-    port = int(os.environ.get("PORT", 7860))
-    demo.launch(server_name="0.0.0.0", server_port=port, share=False)
+    demo.launch(server_name="0.0.0.0", server_port=8000, share=True)
