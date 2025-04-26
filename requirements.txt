@@ -1,9 +1,8 @@
-gradio
-python-dotenv
-pandas
-langchain-openai
-langchain-experimental
-matplotlib
-PyMuPDF  # Only if you need PDF processing
-azure-core
-azure-openai
+gradio==5.27.0
+pandas==2.2.3
+langchain-openai==0.3.14
+langchain-experimental==0.3.4
+matplotlib==3.10.1
+PyMuPDF==1.25.5
+azure-core==1.33.0
+azure-openai==1.0.0  # Replace with the actual versio
