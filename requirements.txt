@@ -1,5 +1,5 @@
 gradio==5.27.0
-pandas==2.2.3
+pandas>=2.2.3
 langchain-openai==0.3.14
 langchain-experimental==0.3.4
 matplotlib==3.10.1
