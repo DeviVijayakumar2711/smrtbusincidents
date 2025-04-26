@@ -5,4 +5,4 @@ langchain-experimental==0.3.4
 matplotlib==3.10.1
 PyMuPDF==1.25.5
 azure-core==1.33.0
-azure-openai==1.0.0  # Replace with the actual versio
+openai==0.28.0
