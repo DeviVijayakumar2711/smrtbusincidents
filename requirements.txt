@@ -6,4 +6,5 @@ matplotlib==3.10.1
 PyMuPDF==1.25.5
 azure-core==1.33.0
 openai>=1.68.2,<2.0.0
+pillow>=9.0.0
 python-dotenv
